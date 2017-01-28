@@ -1,0 +1,12 @@
+
+ETH-EMF - Collection of TODOs and ideas:
+----------------------------------------
+
+1) Desktop Manager dependency:
+
+Currently, all terminal commands are targeting the XFCE4 Desktop Manager (ie xfce4-terminal command). 
+
+The scripts should work with various classic DM. Preferably auto-detect what DM is used and call the right commands accordingly. 
+
+
+
